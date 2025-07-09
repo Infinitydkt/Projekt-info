@@ -9,7 +9,7 @@ wir haben uns folgende Gedanken gemacht:
 
 # Lore
 ## 📖 Die Schatten von Yumao – Eine Geschichte aus der Welt von Na’Orun
-### 🌏 Die Welt: Na’Orun – Die Seele aus Stein
+### 🌏 Na’Orun – Die Seele aus Stein
 
 Na’Orun – so nennen nur die Ältesten die Welt. Die meisten kennen sie unter dem Namen Veritas Magna, die Große Wahrheit. Ein gewaltiger Planet, von uralten Kräften geformt, aufgeteilt in neun gewaltige Kontinente und unzählige Inselgruppen, die sich über silbrige Ozeane verteilen.
 
@@ -17,7 +17,9 @@ Die Gelehrten der Himmelsschulen sagen, Na’Orun sei lebendig. Dass ihre Kontin
 
 In dieser Welt existieren Orte, die nicht mehr auf Karten stehen, und Namen, die beim Aussprechen die Luft gefrieren lassen. Einer dieser Orte ist der Tempel von Yumao Yi Cheng – verborgen im Dschungel des Kontinents Asuru, im vergessenen Tal von Shan’Vala.
 
-###  🕵🏼‍♂️ Der Protagonist: Kaelen Virek
+---
+
+###  🕵🏼‍♂️ Der Protagonist - Kaelen Virek
 
 Kaelen Virek war nie ein Held. Geboren 1933 n.Ä. in der Hafenstadt Viredan, im technokratischen Stadtstaat Nathavar auf dem westlichen Kontinent Tavar, wuchs er in einer Welt der Maschinen, Geheimnisse und fragmentierten Geschichte auf.
 
@@ -27,7 +29,9 @@ Kaelen war Soldat im Konflikt von Fereth, wo er in den uralten Ruinen von Yuen�
 
 Als der Krieg endete, wurde Kaelen nicht zurückgerufen – sondern angesprochen. Von einer Organisation, die ihn schon lange beobachtete.
 
-###  🔮 Die Organisation: SOL VULTIS
+---
+
+###  🔮 Die Organisation - SOL VULTIS
 
 „Die Sonne sieht alles.“
 
@@ -46,7 +50,9 @@ Der mächtigste dieser Speicher soll tief in einem uralten Tempel ruhen. In Asur
 
 Dort soll das Herz von Yumao liegen.
 
-### 💎 Der Schatz: Das Herz von Yumao
+---
+
+### 💎 Der Schatz - Das Herz von Yumao
 
 Der Legende nach fiel es nicht vom Himmel, sondern wurde geweint.
 Ein Funken aus der Essenz der Welt. Formlos. Kristallin. Und dennoch lebendig.
@@ -60,7 +66,9 @@ Dieses Artefakt ist kein Stein. Es ist ein Gedächtnis. Ein Bewusstsein. Eine Sp
 
 Wer es berührt, hört nicht nur Stimmen – er hört sich selbst, in jeder Version, die je existiert hat. Oder existieren könnte.
 
-### 🏛️ Der Tempel: Sha’Zhao-Yi
+---
+
+### 🏛️ Der Tempel - Sha’Zhao-Yi
 
 „Der stumme Mund des Wächters“
 
@@ -74,7 +82,9 @@ Er besitzt keine Eingänge – nur Prüfungen. Keine Fenster – nur Blickrichtu
 
 Im Herzen des Tempels liegt das Yin-Tao Lunis, geschützt durch unzählige Fallen, Illusionen und Erinnerungsanomalien.
 
-### 🧝🏼‍♂️ Die Einwohner: Die Ta’Zhur-Kan
+---
+
+### 🧝🏼‍♂️ Die Einwohner - Die Ta’Zhur-Kan
 
 Die Ta’Zhur-Kan, in der Moderne fälschlich als „Zurkaner“ betitelt, sind ein abgeschottetes Volk, das in den Tiefen von Shan’Vala lebt. Sie sehen sich selbst nicht als Menschen, sondern als Erben des Gedächtnisses.
 
@@ -86,7 +96,9 @@ Sprache wird fast nur schriftlich gebraucht – gesprochenes Wort ist selten und
 
 Ihre Kriegerpriester, die Tzuhan, schützen den Tempel mit körperlicher Stärke und geistiger Disziplin. Doch es sind nicht sie, vor denen sich Eindringlinge fürchten müssen.
 
-### 🧟 Die Schatten: Die Yumaonim
+---
+
+### 🧟 Die Schatten - Die Yumaonim
 
 Sie waren einst Helden.
 
@@ -100,7 +112,9 @@ Sie können nicht getötet werden – denn sie existieren nicht mehr in dieser W
 
 Sie ernähren sich von deiner Erinnerung. Und wenn du ihren Namen hörst, ist es bereits zu spät.
 
-### ⚔️ Die Reise beginnt
+---
+
+### ⚔️ Das Ziel
 Es ist 1967.
 
 Die Organisation schickt Kaelen Virek.
