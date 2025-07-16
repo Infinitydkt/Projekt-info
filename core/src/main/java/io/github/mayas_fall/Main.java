@@ -8,6 +8,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 
 import Menu.Menu;
+import io.github.mayas_fall.OwnClasses.Levels.Level0Rooms.Level0Room1;
 
 public class Main extends Game {   
     public SpriteBatch spriteBatch;
@@ -22,8 +23,8 @@ public class Main extends Game {
     	Font=new BitmapFont();
     	Font.setUseIntegerPositions(false);
 		Font.getData().setScale(viewport.getWorldHeight() / Gdx.graphics.getHeight());
-		this.setScreen(new Menu(this));//for normal purposes
-		//this.setScreen(new Level0Room1(this));
+		//this.setScreen(new Menu(this));//for normal purposes
+		this.setScreen(new Level0Room1(this));
 		}
 
     @Override

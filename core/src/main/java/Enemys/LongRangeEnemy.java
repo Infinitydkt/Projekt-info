@@ -19,9 +19,10 @@ public class LongRangeEnemy extends Enemy{
 	ArrayList<Projectile> Projectiles;
 	
 	public LongRangeEnemy(float x, int Health,  Player p, Room r) {
-		super(x, AdNmLv1R1.darterYpos, AdNmLv1R1.darterXSize, AdNmLv1R1.darterYSize, Health, new Rectangle(), r);
+		super(x, AdNmLv1R1.darterYpos, AdNmLv1R1.darterXSize, AdNmLv1R1.darterYSize, Health, new Rectangle(x,AdNmLv1R1.darterYpos,AdNmLv1R1.darterXSize,AdNmLv1R1.darterYSize), r);
 		
 		LongRangeEnemy=new Texture("Seliniassets/Blower.png");
+		LongRangeEnemyShooting=new Texture("Seliniassets/BlowingBlower.png");
 		Projectiles=new ArrayList<Projectile>();
 	}
 
@@ -32,18 +33,21 @@ public class LongRangeEnemy extends Enemy{
 			Shoot();
 			System.out.println("Shooting");
 		}
+		if (AttackCooldown>AdNmLv1R1.darterShootingCooldown-AdNmLv1R1.darterShootingAnimLength) {
+			return LongRangeEnemyShooting;
+		}
 		return LongRangeEnemy;
 	}
 
 	private void Shoot() {
-		RangedEnemyProjectiles P=new RangedEnemyProjectiles(xPos+AdNmLv1R1.dartershootingOffsetX,yPos+=AdNmLv1R1.dartershootingOffsetY,room);
+		RangedEnemyProjectiles P=new RangedEnemyProjectiles(xPos+AdNmLv1R1.dartershootingOffsetX,yPos+AdNmLv1R1.dartershootingOffsetY,room);
 		Projectiles.add(P);
 		room.AddProjectile(P);
 	}
 
 	@Override
 	public void Movement(float worldWidth, float delta) {
-		AttackCooldown-=delta;
+		AttackCooldown+=delta;
 		for(Projectile P:Projectiles) {
 			if(P.getX()<0||P.getX()>worldWidth) {
 				room.RemoveProjectile(P);

@@ -16,9 +16,10 @@ public static float darterYpos=1.6f;
 public static float darterXSize=1;
 public static float darterYSize=1;
 public static float darterShootingCooldown=1.5f;
-public static float dartershootingOffsetX=0.7f;
+public static float dartershootingOffsetX=0.1f;
 public static float dartershootingOffsetY=0.7f;
+public static float darterShootingAnimLength=0.1f;;
 
 public static float darterProjectileSpeed=5f;
-public static float darterProjectileSize=0.07f;;
+public static float darterProjectileSize=5f;;
 }
