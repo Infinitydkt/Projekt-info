@@ -7,6 +7,8 @@ wir haben uns folgende Gedanken gemacht:
 - **Raum 2**: Mehr Gegner + Boss
 - **Raum 3**: Rätsel, Hints in den anderen Räumen
 
+Dafür hat Selini Die ganzen Zeichnungen übernommen, Erik das Programmieren der physics sowie der Gegner und Animationen. Martin hat sich um den Hebel in der Statue gekümmert, sowie um die Logik, das diese zerstört wird, sobald sie mehrmals attackiert wird. Darius hat sich um das Starter Menü. sowie die Geschichte rundum den Charakter, der Map, der Gegner und dem Hintergrund gekümmert, wobei Martin dabei geholfen hat.
+
 # Lore
 ## 📖 Die Schatten von Yumao – Eine Geschichte aus der Welt von Na’Orun
 ### 🌏 Na’Orun – Die Seele aus Stein
