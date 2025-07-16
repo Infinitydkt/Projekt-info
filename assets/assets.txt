@@ -1,0 +1,16 @@
+Seliniassets/Caharacterleft.png
+Seliniassets/CharacterLeftAttacking.png
+Seliniassets/CharacterRight.png
+Seliniassets/CharacterRightAttacking.png
+Seliniassets/Platform1.png
+Seliniassets/Statue.png
+Seliniassets/StatueDamaged.png
+Seliniassets/bucket.png
+libgdx.png
+ui/font-list.fnt
+ui/font-subtitle.fnt
+ui/font-window.fnt
+ui/font.fnt
+ui/uiskin.atlas
+ui/uiskin.json
+ui/uiskin.png
